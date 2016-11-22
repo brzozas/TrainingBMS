@@ -1,4 +1,4 @@
-package eu.sig.training.ch04;
+package eu.sig.training.account;
 
 public class Accounts {
     @SuppressWarnings("unused")

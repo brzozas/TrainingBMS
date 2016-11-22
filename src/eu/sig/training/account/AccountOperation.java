@@ -1,7 +1,4 @@
-package eu.sig.training.ch04;
-
-import eu.sig.training.AccountNumberValidator;
-import org.omg.CORBA.TRANSACTION_MODE;
+package eu.sig.training.account;
 
 public abstract class AccountOperation {
 

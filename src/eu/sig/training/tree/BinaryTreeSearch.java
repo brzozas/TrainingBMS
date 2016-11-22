@@ -1,8 +1,6 @@
-package eu.sig.training.ch03;
+package eu.sig.training.tree;
 
 import eu.sig.training.Precondition;
-import eu.sig.training.ch03.TreeException;
-import eu.sig.training.ch03.BinaryTreeNode;
 
 public class BinaryTreeSearch {
 

@@ -1,7 +1,4 @@
-package eu.sig.training.ch04;
-
-import eu.sig.training.AccountNumberValidator;
-import eu.sig.training.ch04.Money;
+package eu.sig.training.account;
 
 // tag::SavingsAccount[]
 public class SavingsAccount extends AccountOperation {

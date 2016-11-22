@@ -1,4 +1,4 @@
-package eu.sig.training.ch04;
+package eu.sig.training.account;
 
 public class BusinessException extends Exception {
     private static final long serialVersionUID = 1L;

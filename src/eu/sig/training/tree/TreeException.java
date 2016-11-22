@@ -1,4 +1,4 @@
-package eu.sig.training.ch03;
+package eu.sig.training.tree;
 
 @SuppressWarnings("serial")
 public class TreeException extends RuntimeException {

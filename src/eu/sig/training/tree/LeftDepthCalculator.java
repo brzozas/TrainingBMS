@@ -1,4 +1,4 @@
-package eu.sig.training.ch03;
+package eu.sig.training.tree;
 
 public class LeftDepthCalculator extends DepthCalculatorChain {
 

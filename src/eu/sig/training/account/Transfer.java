@@ -1,6 +1,4 @@
-package eu.sig.training.ch04;
-
-import eu.sig.training.ch04.Money;
+package eu.sig.training.account;
 
 public class Transfer {
     CheckingAccount counterAccount;

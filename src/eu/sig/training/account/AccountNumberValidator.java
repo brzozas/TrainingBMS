@@ -1,9 +1,6 @@
 package eu.sig.training;
 
-import eu.sig.training.ch04.Accounts;
-import eu.sig.training.ch04.BusinessException;
-import eu.sig.training.ch04.CheckingAccount;
-import eu.sig.training.ch04.Transfer;
+import eu.sig.training.account.BusinessException;
 
 public class AccountNumberValidator {
 

@@ -1,4 +1,4 @@
-package eu.sig.training.ch05;
+package eu.sig.training.boardpanel;
 
 public class Rectangle {
 

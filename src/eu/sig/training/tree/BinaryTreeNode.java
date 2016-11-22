@@ -1,4 +1,4 @@
-package eu.sig.training.ch03;
+package eu.sig.training.tree;
 
 public class BinaryTreeNode<T extends Comparable<T>> {
     private final T value;
